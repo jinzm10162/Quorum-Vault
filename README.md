@@ -116,8 +116,8 @@ and only counts while it still equals that owner's current nonce. Removing an ow
 ### Installation
 
 ```shell
-git clone <repo-url>
-cd multisig-wallet
+git clone https://github.com/jinzm10162/Multisig-Wallet.git
+cd Multisig-Wallet
 npm install
 ```
 
