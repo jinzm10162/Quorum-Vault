@@ -1,4 +1,4 @@
-# MultiSig Wallet
+# Quorum Vault
 
 An M-of-N multi-signature wallet, built with Hardhat.
 
@@ -116,7 +116,7 @@ and only counts while it still equals that owner's current nonce. Removing an ow
 ### Installation
 
 ```shell
-git clone https://github.com/jinzm10162/Multisig-Wallet.git
+git clone https://github.com/jinzm10162/Quorum-Vault.git
 cd Multisig-Wallet
 npm install
 ```
